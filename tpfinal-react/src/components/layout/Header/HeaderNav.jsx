@@ -11,7 +11,7 @@ function HeaderNav({ isOpen, toggleMenu }) {
     <nav className={style.nav}>
       <div className={style.nav__logo}>
         <Link to="/">
-          <img src="/images/logo/logo.jpg" alt="Logo de Kamada" />
+          <img src="/images/logo/logo1.jpg" alt="Logo de Kamada" />
         </Link>
       </div>
 

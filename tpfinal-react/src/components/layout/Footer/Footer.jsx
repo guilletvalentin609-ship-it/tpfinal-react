@@ -24,7 +24,7 @@ function Footer() {
 
         <div className={style.row1}>
           <div className={style.footer__logo}>
-            <img src="/images/footer/footer.jpg" alt="Logo de Kamada" className={style.footer__img} />
+            <img src="/images/footer/footer1.jpg" alt="Logo de Kamada" className={style.footer__img} />
             <p className={style.footer__subtitle}>¡Un Kamada nunca amaga!</p>
           </div>
 
@@ -39,16 +39,16 @@ function Footer() {
                   icon={Icons.spotify} 
                   className={style.icon}
                 />
-                <Link to="https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R?si=EKsyepaDS-eY5uQrNMBHkA">
-                  Spotify
-                </Link>
-              </li>
+                
+              </li><Link to="https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R?si=EKsyepaDS-eY5uQrNMBHkA">
+                Spotify
+              </Link>
               <li className={style.redes__items}> 
                 <FontAwesomeIcon 
                   icon={Icons.youtube} 
                   className={style.icon}
                 />
-                <Link to="https://www.youtube.com/@Lakamada">
+                <Link to="https://www.youtube.com/@elvalen13">
                   Youtube
                 </Link>
               </li>
@@ -57,7 +57,7 @@ function Footer() {
                   icon={Icons.instagram} 
                   className={style.icon}
                 />
-                <Link to="https://www.instagram.com/lakamada/?hl=es">
+                <Link to="https://www.instagram.com/valen_guillet/">
                   Instagram
                 </Link>
               </li>

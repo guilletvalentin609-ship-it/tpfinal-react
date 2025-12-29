@@ -10,7 +10,7 @@ function Nosotros() {
           <div className={style.nosotros__conten}>
             <h2 className={style.nosotros__title}>Nosotros</h2>
             <p className={style.nosotros__subtitle}>
-              La banda argentina Kamada, compuesta por Kelo y Saje, se refiere,
+              Venta de ropa y entradas de la mejor banda argentina Kamada, compuesta por Kelo y Saje, se refiere,
               principalmente a su discografía, que incluye álbumes como Kamada
               Tres Cuatro (2013), Kamada Clásicos (2018), Sajelodonte (2019),
               Leal (2020), OSNIS (2022), PLAGAS (2023) y GENERALA SESSIONS
