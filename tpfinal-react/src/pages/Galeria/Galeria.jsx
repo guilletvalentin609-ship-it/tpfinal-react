@@ -14,26 +14,26 @@ function Galeria() {
           </div>
           <div className={style.galeria__grid}>
             <div className={style["grid__item--1"]}>
-              <ImageGrid imgSrc="/images/eventos/foto-show-1.jpeg" />
+              <ImageGrid imgSrc="/images/eventos/foto-show-2.jpeg" />
             </div>
 
             <div className={style["grid__item--2"]}>
-              <ImageGrid
-                imgSrc="/images/eventos/foto-show-2.jpeg"
-                title="Foto del evento de Kamada"
-              />
-            </div>
-
-            <div className={style["grid__item--3"]}>
               <ImageGrid
                 imgSrc="/images/eventos/foto-show-3.jpeg"
                 title="Foto del evento de Kamada"
               />
             </div>
 
+            <div className={style["grid__item--3"]}>
+              <ImageGrid
+                imgSrc="/images/eventos/foto-show-1.jpeg"
+                title="Foto del evento de Kamada"
+              />
+            </div>
+
             <div className={style["grid__item--4"]}>
               <ImageGrid
-                imgSrc="/images/eventos/foto-show-4.jpeg"
+                imgSrc="/images/eventos/foto-show-5.jpeg"
                 title="Foto del evento de Kamada"
               />
             </div>
@@ -47,21 +47,21 @@ function Galeria() {
 
             <div className={style["grid__item--6"]}>
               <ImageGrid
-                imgSrc="/images/eventos/foto-show-5.jpeg"
+                imgSrc="/images/eventos/foto-show-4.jpeg"
                 title="Foto del evento de Kamada"
               />
             </div>
 
             <div className={style["grid__item--7"]}>
               <ImageGrid
-                imgSrc="/images/eventos/foto-show-6.jpeg"
+                imgSrc="/images/eventos/foto-show-7.jpeg"
                 title="Foto del evento de Kamada"
               />
             </div>
 
             <div className={style["grid__item--8"]}>
               <ImageGrid
-                imgSrc="/images/eventos/foto-show-7.jpeg"
+                imgSrc="/images/eventos/foto-show-6.jpeg"
                 title="Foto del evento de Kamada"
               />
             </div>
